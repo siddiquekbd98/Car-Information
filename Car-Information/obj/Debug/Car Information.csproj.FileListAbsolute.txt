@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\bin\Debug\Car Information.exe.config
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\bin\Debug\Car Information.exe
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\bin\Debug\Car Information.pdb
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.exe
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.pdb
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\bin\Debug\Car Information.exe.config
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\bin\Debug\Car Information.exe
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\bin\Debug\Car Information.pdb
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.csproj.AssemblyReference.cache
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.csproj.CoreCompileInputs.cache
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.exe
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\Car Information\obj\Debug\Car Information.pdb
